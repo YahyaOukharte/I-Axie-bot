@@ -1,5 +1,5 @@
  ### Creating a configuration
-  #### A configuration is your requirements for the axies [Botaxie](https://botaxie.org) will buy for you 
+  #### A configuration is your requirements for the axies [Botaxie] will buy for you 
 ![Create Configuration](https://github.com/Botaxie/botaxie/raw/main/screenshots/configuration.png)
 ![Create Configuration](https://github.com/Botaxie/botaxie/raw/main/screenshots/config.png)
 ![Configurations](https://github.com/Botaxie/botaxie/raw/main/screenshots/configs.png)
